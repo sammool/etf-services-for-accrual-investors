@@ -1,4 +1,6 @@
 # etf-services-for-accrual-investors
+2025미래에셋증권 AI 페스티벌
+
 적립식 투자자를 위한 ETF 비중 조절 서비스
 <img width="1474" height="825" alt="스크린샷 2025-08-04 205152" src="https://github.com/user-attachments/assets/25672605-4cda-43a6-a4ba-9483506d39d7" />
 <img width="1478" height="821" alt="스크린샷 2025-08-04 205201" src="https://github.com/user-attachments/assets/a5ce4455-d8c0-4647-9b53-c25cbf8b7aaf" />
